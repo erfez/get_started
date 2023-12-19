@@ -4,5 +4,5 @@ const pool = new Pool({
   host: "localhost",
   port: 5432,
   password: "",
-  database: "getStarted",
+  database: "getstarted",
 });
